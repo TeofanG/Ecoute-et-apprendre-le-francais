@@ -64,6 +64,6 @@ COMPONENTE ALE PROIECTULUI NEREALIZATE DE AUTORII LUCRĂRII (nu am contribuit la
 					- realizarea anumitor scripturi JavaScript;
 					- preluarea si inserarea in [roiect a informatiei si a imaginilor necesare;
 					- verificarea corectitudinii stiintifice;
-					- versionarea fişierelor necesare realirzării software-ului (folosind Github hhttps://github.com/TeofanG/francez-); 
+					- versionarea fişierelor necesare realizării software-ului (folosind Github https://github.com/TeofanG/francez-); 
 											
 			
