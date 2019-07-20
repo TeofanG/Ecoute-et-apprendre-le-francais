@@ -57,13 +57,13 @@ COMPONENTE ALE PROIECTULUI NEREALIZATE DE AUTORII LUCRĂRII (nu am contribuit la
 					- organizarea structurală a site-ului;
 					- utilizarea elementelor de design şi cromatică;
 					- realizarea anumitor scripturi JavaScript;
-					- securizarea software-ului;
+					
 				
 				
 - Grădinariu Teofan	- design-ul site-ului, folosind CSS (Cascading Style Sheets);
 					- realizarea anumitor scripturi JavaScript;
 					- preluarea si inserarea in [roiect a informatiei si a imaginilor necesare;
 					- verificarea corectitudinii stiintifice;
-					- versionarea fişierelor necesare realizării software-ului (folosind Github https://github.com/TeofanG/francez-); 
+					
 											
 			
