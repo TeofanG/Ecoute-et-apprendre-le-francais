@@ -1,4 +1,6 @@
-﻿***Proiectul "Écoute et apprendre le français" - realizat de elevii Grădinariu Teofan şi Vodă Georgian este un software educaţional cu scopul pregătirii elevilor de clasa a 12-a în vederea susţinerii probei C la limba franceză a examenului de Bacalaureat. Acest proiect, sub forma unui site web este intitulat "Écoute et apprendre le français"***
+Website on --->>> http://nicugane.ro/franceza/
+
+***Proiectul "Écoute et apprendre le français" - realizat de elevii Grădinariu Teofan şi Vodă Georgian este un software educaţional cu scopul pregătirii elevilor de clasa a 12-a în vederea susţinerii probei C la limba franceză a examenului de Bacalaureat. Acest proiect, sub forma unui site web este intitulat "Écoute et apprendre le français"***
 
 COMPONENTE ALE PROIECTULUI NEREALIZATE DE AUTORII LUCRĂRII (nu am contribuit la realizarea următoarelor elemente şi nu deţinem niciun drept asupra lor):
 
